@@ -1,7 +1,7 @@
 # HW4
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Platform-linux](https://img.shields.io/badge/Platform-Linux-orange)
-![Language-Bash]https://img.shields.io/badge/Language-Bash-red
+![Language: Bash](https://img.shields.io/badge/Language-Bash-red)
 
 
 Task1.sh screenshot
