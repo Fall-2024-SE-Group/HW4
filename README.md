@@ -12,4 +12,5 @@ Task2.sh screenshot
 ![image](https://github.com/user-attachments/assets/2ca0dfee-36c8-4a84-a117-c3978272fcaf)
 
 Task3.sh screenshot
+![image](https://github.com/user-attachments/assets/527c0ad8-58a1-4710-a6ae-6b076f106971)
 
