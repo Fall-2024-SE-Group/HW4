@@ -9,8 +9,14 @@ Task1.sh screenshot
 
 
 Task2.sh screenshot
-![image](https://github.com/user-attachments/assets/2ca0dfee-36c8-4a84-a117-c3978272fcaf)
+![image](https://github.com/user-attachments/assets/d58d1eab-fe55-40a0-8fce-521da2ff6e3f)
 
-Task3.sh screenshot
+
+Task3.sh screenshots
+
+![image](https://github.com/user-attachments/assets/f16fc1e6-b0c7-4dc4-9d40-c7c60b69d01f)
+
+![image](https://github.com/user-attachments/assets/855a73bb-dedd-44eb-9b51-bc9214bd38cf)
+
 ![image](https://github.com/user-attachments/assets/527c0ad8-58a1-4710-a6ae-6b076f106971)
 
