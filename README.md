@@ -13,10 +13,13 @@ Task2.sh screenshot
 
 
 Task3.sh screenshots
+![image](https://github.com/user-attachments/assets/3a005b55-1356-4465-af97-19fb3e9f588b)
+![image](https://github.com/user-attachments/assets/a35a5848-5c7c-4189-9fe4-8bdb70fcdc1a)
+![image](https://github.com/user-attachments/assets/b1b4fb88-e99f-4462-9adf-9f828bb31848)
+![image](https://github.com/user-attachments/assets/60d15ea9-9568-4b7e-bead-6f438889e7ce)
 
-![image](https://github.com/user-attachments/assets/f16fc1e6-b0c7-4dc4-9d40-c7c60b69d01f)
 
-![image](https://github.com/user-attachments/assets/855a73bb-dedd-44eb-9b51-bc9214bd38cf)
 
-![image](https://github.com/user-attachments/assets/527c0ad8-58a1-4710-a6ae-6b076f106971)
+
+
 
